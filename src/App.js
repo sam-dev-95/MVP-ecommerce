@@ -4,7 +4,6 @@ function App() {
   console.log('test');
   const arr = [1,2,3]
   const name ="sam"
-  const num= 5
   return (
     <div className="App">
       <header className="App-header">

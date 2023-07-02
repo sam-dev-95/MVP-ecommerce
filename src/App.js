@@ -3,6 +3,7 @@ import './App.css';
 function App() {
   console.log('test');
   const arr = [1,2,3]
+  const name ="sam"
   return (
     <div className="App">
       <header className="App-header">
